@@ -1,0 +1,15 @@
+[
+  "shots",
+  "shots_on_target",
+  "corners",
+  "fouls",
+  "yellow_cards",
+  "shot_accuracy",
+  "shot_conversion",
+  "shot_dominance",
+  "corner_dominance",
+  "opp_shot_accuracy",
+  "discipline_index",
+  "implied_win_prob",
+  "over25_implied"
+]
